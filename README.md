@@ -2,6 +2,8 @@
 
 Esto es un diseño para que tu mismo puedas compartir esta plantilla, y realizar la edición que desees.
 
+![Captura](https://user-images.githubusercontent.com/32551746/111292681-b8bb9300-8648-11eb-9705-351d9e745729.JPG)
+
 ### Donde me puedes encontrar
 
 * :earth_africa: Portafolios **[Portafolios](https://jairosanchez.es/)** 
